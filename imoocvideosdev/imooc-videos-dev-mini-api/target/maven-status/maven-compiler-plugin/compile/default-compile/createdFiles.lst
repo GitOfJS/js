@@ -1,0 +1,4 @@
+com\imooc\controller\intercepter\MyInterceptor.class
+com\imooc\config\Swagger2.class
+com\imooc\controller\RegistLoginController.class
+com\imooc\SpringBoot.class
