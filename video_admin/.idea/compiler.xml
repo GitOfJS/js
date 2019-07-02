@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin_common" />
+        <module name="admin_mapper" />
+        <module name="admin_mng" />
+        <module name="admin_pojo" />
+        <module name="admin_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin_common" target="1.8" />
+      <module name="admin_mapper" target="1.8" />
+      <module name="admin_mng" target="1.8" />
+      <module name="admin_pojo" target="1.8" />
+      <module name="admin_service" target="1.8" />
+      <module name="video_admin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
